@@ -1,4 +1,4 @@
-# Support is Windows 7 only, this works just fine on Windows 8.0+
+# Support for this patch is Windows 7 only
 Join up https://discord.gg/MnfHDJMqX5
 
 You'll need [VxKex](https://github.com/vxiiduu/VxKex/releases)
