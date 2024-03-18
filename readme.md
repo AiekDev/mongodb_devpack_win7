@@ -1,4 +1,6 @@
 # Support is Windows 7 only, this works just fine on Windows 8.0+
+Join up https://discord.gg/MnfHDJMqX5
+
 You'll need [VxKex](https://github.com/vxiiduu/VxKex/releases)
 ## For MongoDB server, make sure you enable the following:
 ![2ffaaae3-0b1b-42ab-835b-be5cbf032a69](https://github.com/AiekDev/mongodb_devpack_win7/assets/145149166/8bd21ad5-d2d9-4577-aa3e-066c10791e77)
